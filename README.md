@@ -140,10 +140,9 @@ Then it sends the student data through the complete preprocessing + Random Fores
 ## Project Structure
 
 ```text
-Student_Performance_Prediction/
+Student-Performance-Prediction/
 │
 ├── data/
-│   ├── README.md
 │   └── student-mat.csv              # included dataset
 │
 ├── notebooks/

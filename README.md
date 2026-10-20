@@ -18,6 +18,15 @@ The goal of this project is to predict the student's **final grade (G3)** on a s
 
 The application takes **32 student features** as input and passes them through the trained preprocessing and machine learning pipeline.
 
+## 🚀 Live Demo
+
+Try the deployed Student Performance AI application:
+
+**[🌐 Launch Student Performance AI](https://student-performance-prediction-qct3uwt5qfre72cxpq9rxg.streamlit.app/)**
+
+> Enter student information and get an AI-powered prediction of the final academic grade (G3).
+
+
 ### 🎯 Prediction Target
 
 **G3 — Final Grade**
